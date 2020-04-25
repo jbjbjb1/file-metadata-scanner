@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+pypiwin32 = "*"
+tika = "==1.23.0"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
