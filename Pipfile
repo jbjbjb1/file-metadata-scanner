@@ -12,6 +12,7 @@ tika = "==1.23.0"
 matplotlib = "*"
 numpy = "*"
 pandas = "*"
+pyarrow = "*"
 
 [requires]
 python_version = "3.7"
