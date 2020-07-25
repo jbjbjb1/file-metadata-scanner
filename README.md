@@ -1,6 +1,5 @@
-# file-metadata-scanner
-## Purpose
-Search through a directory and extract all file metadata
+# Readme
+The purpose of this code is to search through a directory (and subdirectories) and extract all file metadata.
 
 ## Work done so far
 * Run the example in the \example folder to see the metadata extracted by Tika (works on Windows/Linux).
